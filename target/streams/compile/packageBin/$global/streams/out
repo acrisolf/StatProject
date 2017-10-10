@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/cloudera/workspace/StatProject/target/scala-2.10/data-assessment_2.10-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/assess/StatService$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/workspace/StatProject/target/scala-2.10/classes/data/assess/StatService$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/assess/StatService$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/workspace/StatProject/target/scala-2.10/classes/data/assess/StatService$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/assess/StatService$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/workspace/StatProject/target/scala-2.10/classes/data/assess/StatService$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/assess/StatService$Service.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/workspace/StatProject/target/scala-2.10/classes/data/assess/StatService$Service.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/assess/StatService$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/workspace/StatProject/target/scala-2.10/classes/data/assess/StatService$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/assess/StatService$Service$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/workspace/StatProject/target/scala-2.10/classes/data/assess/StatService$Service$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/assess[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/workspace/StatProject/target/scala-2.10/classes/data/assess[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/assess/StatService$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/workspace/StatProject/target/scala-2.10/classes/data/assess/StatService$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/assess/StatService$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/workspace/StatProject/target/scala-2.10/classes/data/assess/StatService$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/assess/StatService$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/workspace/StatProject/target/scala-2.10/classes/data/assess/StatService$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/workspace/StatProject/target/scala-2.10/classes/data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data/assess/StatService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cloudera/workspace/StatProject/target/scala-2.10/classes/data/assess/StatService.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
