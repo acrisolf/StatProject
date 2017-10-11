@@ -7,17 +7,17 @@
  * Spark version min 1.6.0 (if greater must edit it in /StatProject/build.sbt)
  * Scala version min 2.10.5 (if greater must edit it in /StatProject/build.sbt)
  * Sbt version 1.0.2 (if greater must edit it in /StatProject/project/build.properties)
- **Obs:** If any version is altered a recompile must be done using "sbt package" inside StatProject folder
+ * **Obs:** If any version is altered a recompile must be done using "sbt package" inside StatProject folder
  
 ## Installing
 
 1. Clone this repository using "git clone <repo-url>"
 1. Download and extract the csv file
-3  Create the following HDFS directory:
+1.  Create the following HDFS directory:
 	* hadoop fs -mkdir /tmp/stat 
-4 Copy the csv data file into the previous directory:
+1. Copy the csv data file into the previous directory:
 	* hadoop fs -put <local_dir> /tmp/stat
-5 Run project with following command:
+1. Run project with following command:
 	* spark-submit --master <Node URL> --class <workspace>/StatProject/src/main/scala/data/assess/StatService target/scala-<version>/data-assessment_<scala-version>-1.0.jar
 
 ## Outputs
