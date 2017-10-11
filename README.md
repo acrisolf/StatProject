@@ -11,21 +11,21 @@
  
 ## Installing
 
-1. Clone this repository using "git clone <repo-url>"
+1. Clone this repository using "git clone `<repo-url>`"
 1. Download and extract the csv file
 1.  Create the following HDFS directory:
 	* hadoop fs -mkdir /tmp/stat 
 1. Copy the csv data file into the previous directory:
-	* hadoop fs -put <local_dir> /tmp/stat
+	* hadoop fs -put `<local_dir>` /tmp/stat
 1. Run project with following command:
-	* spark-submit --master <Node URL> --class <workspace>/StatProject/src/main/scala/data/assess/StatService target/scala-<version>/data-assessment_<scala-version>-1.0.jar
+	* spark-submit --master `<Node URL>` --class `<workspace>`/StatProject/src/main/scala/data/assess/StatService target/scala-<version>/data-assessment_`<scala-version>`-1.0.jar
 
 ## Outputs
 	
 The output will be placed inside 3 following HDFS folders:
-	* /tmp/stat/KeywordChanges
-	* /tmp/stat/MostRanks
-	* /tmp/stat/deviceDifference
+* /tmp/stat/KeywordChanges
+* /tmp/stat/MostRanks
+* /tmp/stat/deviceDifference
 
 ## Acknowledgments
 	
